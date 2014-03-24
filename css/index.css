@@ -124,7 +124,8 @@ a:link {
  * This is the blue top section that appears on the page.
  */
 .splash-container {
-  background: #2f2f2f;
+  background-image: url('../img/toes.jpeg');
+  background-size: 100%;
   z-index: 1;
   overflow: hidden;
   /* The following styles are required for the "scroll-over" effect */
